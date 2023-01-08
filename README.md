@@ -10,4 +10,4 @@ Twitter scraper using keywords.
 <br>
 
 ## Screenshot
-![Screenshot](menu.png)
+![Screenshot](main.png)
