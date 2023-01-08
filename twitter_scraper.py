@@ -147,7 +147,7 @@ def FORTNITE():
 
 
 
-#Keyword - Downtime
+#Keyword - issue
     with open('Fortnite_status.json','r') as f:
         for line in f:
             for word in line.split():
