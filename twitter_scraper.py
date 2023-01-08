@@ -1,4 +1,3 @@
-import csv
 import tweepy
 import ssl
 import json
